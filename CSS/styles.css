@@ -1,0 +1,48 @@
+h1 {
+  color: #52057b;
+  font-family: Arial;
+  text-decoration: underline #52057b;
+}
+
+.h1 {
+  color: red;
+  font-family: georgia;
+  text-decoration: underline red;
+}
+
+
+body {
+  background-color: #bc6ff1;
+}
+
+hr {
+  border-style: none;
+  border-color: #52057b;
+  border-top-width: 10px;
+  border-top-style: dotted;
+  width: 20%;
+}
+
+p {
+  line-height: 40px;
+}
+
+.type_h {
+  font-family: Arial;
+  font-weight: 900;
+}
+
+.greenul {
+  color: green;
+}
+
+#image{
+  width: 500px;
+  height: 400px;
+}
+
+a:hover {
+  background-color: #52057b;
+  color: white;
+  text-decoration: underline red;
+}
