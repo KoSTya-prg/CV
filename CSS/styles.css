@@ -8,11 +8,19 @@ h1 {
   color: red;
   font-family: georgia;
   text-decoration: underline red;
+  border: 5px solid tomato;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 40px;
 }
 
 
 body {
   background-color: #bc6ff1;
+}
+
+header {
+  text-align: center;
 }
 
 hr {
